@@ -95,7 +95,7 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text('New practice'),
+          title: Text('New practice ghvhgb'),
         ),
         body: SingleChildScrollView(
           child: ExpansionPanelList(
